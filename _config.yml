@@ -2,6 +2,6 @@ title: Pushwitha Krishnappa
 logo: assests/img/headshot_circle.png
 description: AI & ML Researcher Pursuing Ph.D. at UAH | Transforming Ideas into AI Innovations for a Smarter World
 # use the below theme only, but test other. Themes link: https://pages.github.com/versions/
-# theme: jekyll-theme-minimal
-theme: github-pages
+theme: jekyll-theme-minimal
+# theme: github-pages
 google_analytics: G-T4ZRFFZHS9
