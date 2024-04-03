@@ -31,8 +31,53 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 | BE in Computer Science               | Visvesvaraya Technological University (VTU)      | Bangalore, India   | July 2017 |
 
 
+## Experience
+
+**UAH (Dec 2021 – Present)**
+*Graduate Research Assistant, Huntsville, Alabama*
+- Funded by Air Force Research Laboratory, Munitions Directorate, Eglin Air Force Base, Shalimar, Florida.
+
+**UAH (Aug 2020 – Dec 2021)**
+*Graduate Teaching Assistant, Huntsville, Alabama*
+- GTA for:
+  - Introduction to Design and Analysis of Algorithms
+  - Introduction to Discrete Structures
+  - Artificial Intelligence and Game Development
+- Assisted Professor with grading assignments and exams.
+
+**Campus Cardinals, LLP., India (Aug 2017 – Feb 2018)**
+*Business/Data Analyst, Bengaluru, Karnataka*
+- Created database of Student Information using Excel and provided dashboards using Tableau to assist in decision making.
+- Performed cluster analysis on student data for student segmentation and targeting and generated recommendations of colleges and universities within regions.
+- Applied a market-basket analysis on student’s demographic data to increase enrollment rate.
+- Provided stakeholders reports covering the universities/education consultants in each region.
+
+## Technical Skills
+
+### Languages
+- Python, R, SQL
+
+### ML Libraries and Frameworks
+- NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras
+
+### NLP
+- spaCy, NLTK, Gensim
+
+### Visual Analytics
+- Tableau
+
+### IDEs
+- Visual Studio Code, Jupyter, Google Colaboratory, RStudio, PyCharm
+
+### Operating Systems
+- Linux, Windows 10, MacOS
+
+### Cloud Services
+- Amazon AWS, Google GCP, Microsoft Azure
+
+### Version Control System
+- Git
 
 
-### Work Experience
 
 
