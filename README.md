@@ -15,23 +15,24 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 - Time Series and Quantitative Analysis
 - Model Development
 
-
 ## Education
+<dl>
+<dt>The University of Alabama in Huntsville (UAH), Huntsville, AL</dt>
+<dd>Ph.D. in Computer Science** (Aug 2022 - Present)</dd>
 
-**The University of Alabama in Huntsville (UAH), Huntsville, AL**
-- **Ph.D. in Computer Science** (Aug 2022 - Present)
+<dt>The University of Alabama in Huntsville (UAH), Huntsville, AL</dt>
+<dd>MS in Computer Science** (Aug 2022)</dd>
 
-**The University of Alabama in Huntsville (UAH), Huntsville, AL**
-- **MS in Computer Science** (Aug 2022)
+<dt>Virginia Commonwealth University (VCU), Richmond, VA</dt>
+<dd>MS in Decision Analytics** (May 2020)</dd>
 
-**Virginia Commonwealth University (VCU), Richmond, VA**
-- **MS in Decision Analytics** (May 2020)
+<dt>Christ University, Bangalore, India</dt>
+<dd>MBA in Business Analytics** (May 2019)</dd>
 
-**Christ University, Bangalore, India**
-- **MBA in Business Analytics** (May 2019)
+<dt>Visvesvaraya Technological University (VTU), Bangalore, India</dt>
+<dd>BE in Computer Science** (July 2017)</dd>
 
-**Visvesvaraya Technological University (VTU), Bangalore, India**
-- **BE in Computer Science** (July 2017)
+</dl>
 
 
 ## Experience
