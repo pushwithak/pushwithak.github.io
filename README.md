@@ -88,43 +88,36 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 ## Projects and Publications
 
 ### Computational Fluid Dynamics – Next Frame Prediction (Pending Publication)
-• The project involved development of a Convolutional Neural Network (CNN) model to accurately predict a frame using
-previous frames.
-• A video sequence was split into numerous frames(images) to train the CNN model as well as to validate it.
-• A 3D CNN model was developed to predict the nth frame utilizing data from the preceding frames.
-• The 3D CNN model captured both spatial and temporal information from video data for precise frame predictions.
-As a result, the model effectively learned underlying patterns and dynamics within the video sequence leading to more accurate and reliable predictions.
+- The project involved development of a Convolutional Neural Network (CNN) model to accurately predict a frame using previous frames.
+- A video sequence was split into numerous frames(images) to train the CNN model as well as to validate it.
+- A 3D CNN model was developed to predict the nth frame utilizing data from the preceding frames.
+- The 3D CNN model captured both spatial and temporal information from video data for precise frame predictions. As a result, the model effectively learned underlying patterns and dynamics within the video sequence leading to more accurate and reliable predictions.
 
 ### Inference of Leader-Follower Relationship in Reddit (Pending Publication)
-• The group research involved conducting an in-depth analysis on Reddit user interactions.
-• The research focuses on studying implicit leader-follower relationships in large social networks to better understand the
-formation of exclusive and inclusive subgroups.
-• Exclusive groups can create echo chambers for radical ideas, while inclusive groups often play a moderating role.
-• The study uses a custom-designed crawler to gather data from the top 25 subreddits on Reddit. The findings
-demonstrate that both types of groups can be identified through communication patterns within the social network.
+- The group research involved conducting an in-depth analysis on Reddit user interactions.
+- The research focuses on studying implicit leader-follower relationships in large social networks to better understand the formation of exclusive and inclusive subgroups.
+- Exclusive groups can create echo chambers for radical ideas, while inclusive groups often play a moderating role.
+- The study uses a custom-designed crawler to gather data from the top 25 subreddits on Reddit. The findings demonstrate that both types of groups can be identified through communication patterns within the social network.
 
 ### Chatbot - National Institute of Justice (NIJ) research – Collaboration with Florida State University and Purdue University (Pending Publication)
-• The primary goal of this chatbot research is to develop intelligent and interactive chat systems by identifying the context of users’ query’s and generating appropriate responses.
-• To achieve this goal, various techniques are analyzed and compared to design chatbots that understand the semantics of the topic and derive similarity measures among sentences.
-• Natural Language Processing (NLP) techniques are used for data preprocessing and feature extraction.
-• The BERT (Bidirectional Encoder Representations from Transformers) model, RoBERTa (Robustly Optimized BERT
-Pretraining Approach) and DistilBERT (A Distilled version of BERT) transformer variations are used to create embeddings of the data leading to better identification and more accurate clustering of sentences.
+- The primary goal of this chatbot research is to develop intelligent and interactive chat systems by identifying the context of users’ query’s and generating appropriate responses.
+- To achieve this goal, various techniques are analyzed and compared to design chatbots that understand the semantics of the topic and derive similarity measures among sentences.
+- Natural Language Processing (NLP) techniques are used for data preprocessing and feature extraction.
+- The BERT (Bidirectional Encoder Representations from Transformers) model, RoBERTa (Robustly Optimized BERT Pretraining Approach) and DistilBERT (A Distilled version of BERT) transformer variations are used to create embeddings of the data leading to better identification and more accurate clustering of sentences.
 
 ### 3D reconstruction of indoor images - National Institute of Justice research – Collaboration with Florida State University and Purdue University (Pending Publication)
-• The goal of the research is to create a 3D reconstruction from a set of indoor images.
-• To achieve this goal, we are investigating the potential of Siamese Neural Networks for indoor 3D reconstruction,
-aiming to improve the accuracy and efficiency of spatial structure representation in interior environments.
+- The goal of the research is to create a 3D reconstruction from a set of indoor images.
+- To achieve this goal, we are investigating the potential of Siamese Neural Networks for indoor 3D reconstruction, aiming to improve the accuracy and efficiency of spatial structure representation in interior environments.
 
 ### NLP – Targeted Forensics for Emails (This project has no publication.)
-• Incorporated NLP with ML models to categorize email text as either “Abusive” or “Non-Abusive”. Used various
-classification algorithms and determined that Random Forest classifier worked best with 95% accuracy. Chose this model to find abusive sentiment and employed the model on the email corpus dataset.
+- Incorporated NLP with ML models to categorize email text as either “Abusive” or “Non-Abusive”. Used various classification algorithms and determined that Random Forest classifier worked best with 95% accuracy. Chose this model to find abusive sentiment and employed the model on the email corpus dataset.
 
 ### Women’s E-Commerce Clothing Reviews Analysis. (This project has no publication.)
-• Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis (PCA) dimensionality
+- Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis (PCA) dimensionality
 reduction method worked better. SVM (Support Vector Machines) model performed better without dimensionality reduction and Random Forest Classifier worked better with dimensionality reduction. From these classification models, the retailers will be able to:
-∗ Analyze the reviews of the customers and determine the products that increase the revenue. ∗ Perform customer segmentation based on age and target the age groups
-∗ Classify products inventory to increase the revenue.
-∗ Add date and time stamps in the dataset to identify seasonal trends
+  - Analyze the reviews of the customers and determine the products that increase the revenue. ∗ Perform customer segmentation based on age and target the age groups
+  - Classify products inventory to increase the revenue.
+  - Add date and time stamps in the dataset to identify seasonal trends
 
 
 ## Professional and Academic Distinctions
