@@ -57,29 +57,14 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 
 ## Technical Skills
 
-### Languages
-- Python, R, SQL
-
-### ML Libraries and Frameworks
-- NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras
-
-### NLP
-- spaCy, NLTK, Gensim
-
-### Visual Analytics
-- Tableau
-
-### IDEs
-- Visual Studio Code, Jupyter, Google Colaboratory, RStudio, PyCharm
-
-### Operating Systems
-- Linux, Windows 10, MacOS
-
-### Cloud Services
-- Amazon AWS, Google GCP, Microsoft Azure
-
-### Version Control System
-- Git
+- **Languages:** Python, R, SQL
+- **ML Libraries and Frameworks:** NumPy, Pandas, Matplotlib, SciPy, Scikit-Learn, TensorFlow, Keras
+- **NLP:** spaCy, NLTK, Gensim
+- **Visual Analytics:** Tableau
+- **IDEs:** Visual Studio Code, Jupyter, Google Colaboratory, RStudio, PyCharm
+- **Operating Systems:** Linux, Windows 10, MacOS
+- **Cloud Services:** Amazon AWS, Google GCP, Microsoft Azure
+- **Version Control System:** Git
 
 ## Projects and Publications
 
