@@ -5,15 +5,17 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 Key Skills: Exploratory Data Analysis (EDA), Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP), Predictive Analytics, Data Visualization, Statistical Modeling, Data Analytics, Data Mining, Data Acquisition and Validation, Time Series and Quantitative Analysis, Model Development.
 
 ### Education
-The University of Alabama in Huntsville (UAH), Huntsville, AL - Ph.D. in Computer Science \\
-The University of Alabama in Huntsville (UAH), Huntsville, AL - MS in Computer Science \\ 
-Virginia Commonwealth University (VCU), Richmond, VA
-MS in Decision Analytics
-Christ University, Bangalore, India
-MBA in Business Analytics
-Visvesvaraya Technological University (VTU), Bangalore, India
-Aug 2022 - Present August 2022 May 2020 May 2019 July 2017
-BE in Computer Science 
+## Education
+
+| Degree                               | Institution                                      | Location           | Dates       |
+|--------------------------------------|--------------------------------------------------|--------------------|-------------|
+| Ph.D. in Computer Science            | The University of Alabama in Huntsville (UAH)    | Huntsville, AL     | Aug 2022 - Present |
+| MS in Computer Science               | The University of Alabama in Huntsville (UAH)    | Huntsville, AL     | Aug 2022 |
+| MS in Decision Analytics             | Virginia Commonwealth University (VCU)           | Richmond, VA       | May 2020 |
+| MBA in Business Analytics            | Christ University                                | Bangalore, India   | May 2019 |
+| BE in Computer Science               | Visvesvaraya Technological University (VTU)      | Bangalore, India   | July 2017 |
+
+
 
 
 ### Work Experience
