@@ -18,19 +18,19 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 ## Education
 <dl>
 <dt>The University of Alabama in Huntsville (UAH), Huntsville, AL</dt>
-<dd>Ph.D. in Computer Science** (Aug 2022 - Present)</dd>
+<dd>Ph.D. in Computer Science (Aug 2022 - Present)</dd>
 
 <dt>The University of Alabama in Huntsville (UAH), Huntsville, AL</dt>
-<dd>MS in Computer Science** (Aug 2022)</dd>
+<dd>MS in Computer Science (Aug 2022)</dd>
 
 <dt>Virginia Commonwealth University (VCU), Richmond, VA</dt>
-<dd>MS in Decision Analytics** (May 2020)</dd>
+<dd>MS in Decision Analytics (May 2020)</dd>
 
 <dt>Christ University, Bangalore, India</dt>
-<dd>MBA in Business Analytics** (May 2019)</dd>
+<dd>MBA in Business Analytics (May 2019)</dd>
 
 <dt>Visvesvaraya Technological University (VTU), Bangalore, India</dt>
-<dd>BE in Computer Science** (July 2017)</dd>
+<dd>BE in Computer Science (July 2017)</dd>
 
 </dl>
 
