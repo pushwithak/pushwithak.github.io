@@ -78,6 +78,25 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 ### Version Control System
 - Git
 
+## Projects and Publications
+
+### Computational Fluid Dynamics – Next Frame Prediction (Pending Publication)
+- • The project involved development of a Convolutional Neural Network (CNN) model to accurately predict a frame using
+previous frames.
+• A video sequence was split into numerous frames(images) to train the CNN model as well as to validate it.
+• A 3D CNN model was developed to predict the nth frame utilizing data from the preceding frames.
+• The 3D CNN model captured both spatial and temporal information from video data for precise frame predictions.
+As a result, the model effectively learned underlying patterns and dynamics within the video sequence leading to more accurate and reliable predictions.
+
+### Inference of Leader-Follower Relationship in Reddit (Pending Publication)
+- Conducted in-depth analysis on Reddit user interactions to study implicit leader-follower relationships in large social networks.
+- Investigated the formation of exclusive and inclusive subgroups, noting exclusive groups can create echo chambers while inclusive groups play a moderating role.
+- Used a custom-designed crawler to gather data from the top 25 subreddits, demonstrating identification of group types through communication patterns.
+
+### Chatbot - National Institute of Justice (NIJ) research (Pending Publication)
+- Aimed to develop intelligent and interactive chat systems by identifying the context of user queries and generating appropriate responses.
+- Analyzed and compared various techniques to design chatbots that understand semantics and derive similarity measures among sentences.
+- Employed NLP techniques for data preprocessing and feature extraction, using models like BERT, RoBERTa, and DistilBERT for data embeddings
 
 
 
