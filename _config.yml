@@ -7,11 +7,11 @@ url: https://pushwithak.github.io/
 theme: jekyll-theme-minimal
 # theme: github-pages
 
-header_pages:
-  - index.md
-plugins:
-  - jekyll-feed
-include:
-  - _includes
+# header_pages:
+#   - index.md
+# plugins:
+#   - jekyll-feed
+# include:
+#   - _includes
   
 google_analytics: G-T4ZRFFZHS9
