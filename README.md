@@ -1,7 +1,7 @@
 As a dedicated and innovative Ph.D. student specializing in Computer Science, I am seeking a Summer 2024 internship in Artificial Intelligence and Machine Learning. My goal is to contribute my advanced technical skills and strong academic background to real-world projects, while gaining hands-on experience in advanced AI technologies and methodologies.
 
+<
 ### Key Skills 
-
 - Exploratory Data Analysis (EDA)
 - Machine Learning Algorithms
 - Deep Learning
@@ -14,6 +14,7 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 - Data Acquisition and Validation
 - Time Series and Quantitative Analysis
 - Model Development
+>
 
 ## Education
 <dl>
