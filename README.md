@@ -97,7 +97,8 @@ As a dedicated and innovative Ph.D. student specializing in Computer Science, I 
 ### Women’s E-Commerce Clothing Reviews Analysis. (This project has no publication.)
 - Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis (PCA) dimensionality
 reduction method worked better. SVM (Support Vector Machines) model performed better without dimensionality reduction and Random Forest Classifier worked better with dimensionality reduction. From these classification models, the retailers will be able to:
-  - Analyze the reviews of the customers and determine the products that increase the revenue. ∗ Perform customer segmentation based on age and target the age groups
+  - Analyze the reviews of the customers and determine the products that increase the revenue.
+  - Perform customer segmentation based on age and target the age groups.
   - Classify products inventory to increase the revenue.
   - Add date and time stamps in the dataset to identify seasonal trends
 
