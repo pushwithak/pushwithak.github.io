@@ -1,26 +1,24 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Pushwitha Krishnappa
+title: Pushwitha Krishnappa | Portfolio
+description: Driven and innovative Ph.D. student in Computer Science with a robust foundation in Artificial Intelligence and Machine Learning. Seeking to contribute advanced technical expertise and a passion for data-driven problem solving in a challenging environment. Eager to apply experience in developing cutting-edge machine learning models and insightful data analyses to create impactful solutions in a dynamic and collaborative setting.
+url: https://pushwithak.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
+email: pushwitha.krishnappa@gmail.com
+# cover: https://pushwithak.github.io/img/og.png
+logo: https://pushwithak.github.io/img/emojis/technologist.png
 resume: https://pushwithak.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: mailto:pushwitha.krishnappa@gmail.com
+  # - title: twitter
+  #   url: https://twitter.com/username
+  # - title: instagram
+  #   url: https://instagram.com/username
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/pushwithak
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/pushwitha
 
 # Build settings
 markdown: kramdown
