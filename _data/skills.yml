@@ -3,7 +3,7 @@ Languages:
   - item: SQL
   - item: R
 
-ML Tools:
+ML-Tools:
   - item: PyTorch
   - item: TensorFlow
   - item: Scikit-Learn
