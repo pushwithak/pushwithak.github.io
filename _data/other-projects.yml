@@ -1,10 +1,4 @@
-# - name: ScreenTime 2.0
-#   url: https://play.google.com/store/apps/details?id=com.starry.management
-#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
-#   used:
-#   - thing: JavaScript
-#   - thing: CSS
-#   - thing: Handlebars
-#   - thing: Backbone
-#   - thing: Marionette
-#   - thing: Cordova
+- name: Women’s E-Commerce Clothing Reviews Analysis. 
+  # url: 
+  description: Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis (PCA) dimensionality reduction method worked better. SVM (Support Vector Machines) model performed better without dimensionality reduction and Random Forest Classifier worked better with dimensionality reduction. From these classification models, the retailers will be able to:  used:
+  - thing: Python
