@@ -9,7 +9,6 @@
   - Perform customer segmentation based on age and target the age groups.
   - Classify products inventory to increase the revenue.
   - Add date and time stamps in the dataset to identify seasonal trends
-
   used:
     - thing: Python
 
