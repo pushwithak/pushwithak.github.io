@@ -3,17 +3,13 @@ Languages:
   - item: SQL
   - item: R
 
-ML-Tools:
+ML & Data Science Tools:
   - item: PyTorch
   - item: TensorFlow
   - item: Scikit-Learn
-
-NLP:
   - item: spaCy
   - item: NLTK
   - item: Gensim
-
-Data Visualization:
   - item: Tableau
   - item: Matplotlib
   - item: SciPy
@@ -25,10 +21,6 @@ IDEs:
   - item: RStudio
   - item: PyCharm
 
-Operating Systems:
-  - item: Linux
-  - item: Windows 10
-  - item: MacOS
 
 Cloud Services:
   - item: Amazon AWS
