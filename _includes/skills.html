@@ -12,28 +12,10 @@
       </div>
 
       <div class="skillz__category">
-        <div class="skillz__category__label">ML Tools</div>
+        <div class="skillz__category__label">ML & Data Science Tools</div>
         <ul>
-          {% for tool in site.data.skills["ML-Tools"] %}
+          {% for tool in site.data.skills["ML & Data Science Tools"] %}
           <li class="skillz__category__item">{{ tool.item }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-
-      <div class="skillz__category">
-        <div class="skillz__category__label">NLP</div>
-        <ul>
-          {% for tool in site.data.skills.NLP %}
-          <li class="skillz__category__item">{{ tool.item }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-
-      <div class="skillz__category">
-        <div class="skillz__category__label">Data Visualization</div>
-        <ul>
-          {% for viz_tool in site.data.skills["Data Visualization"] %}
-          <li class="skillz__category__item">{{ viz_tool.item }}</li>
           {% endfor %}
         </ul>
       </div>
