@@ -1,3 +1,17 @@
 - name: Women’s E-Commerce Clothing Reviews Analysis. 
   # url: 
   description: Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis (PCA) dimensionality reduction method worked better. SVM (Support Vector Machines) model performed better without dimensionality reduction and Random Forest Classifier worked better with dimensionality reduction. 
+  used:
+    - thing: Python
+
+
+# - name: Personal Website V1
+#   url: https://bchiang7.github.io/v1
+#   code: https://github.com/bchiang7/website_2015/
+#   description: My first portfolio website I designed and built in 2014. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.
+#   used:
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: Bootstrap
+#     - thing: JavaScript
+#     - thing: jQuery
