@@ -22,10 +22,10 @@ IDEs:
   - item: PyCharm
 
 
-Cloud Services:
-  - item: Amazon AWS
-  - item: Google GCP
-  - item: Microsoft Azure
+# Cloud Services:
+#   - item: Amazon AWS
+#   - item: Google GCP
+#   - item: Microsoft Azure
 
 Version Control System:
   - item: Git
