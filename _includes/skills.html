@@ -5,16 +5,16 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Languages</div>
         <ul>
-          {% for language in site.data.skills.languages %}
+          {% for language in site.data.skills.Languages %}
           <li class="skillz__category__item">{{ language.item }}</li>
           {% endfor %}
         </ul>
       </div>
-      
+
       <div class="skillz__category">
         <div class="skillz__category__label">ML Tools</div>
         <ul>
-          {% for tool in site.data.skills.ml_tools %}
+          {% for tool in site.data.skills["ML-Tools"] %}
           <li class="skillz__category__item">{{ tool.item }}</li>
           {% endfor %}
         </ul>
@@ -23,16 +23,16 @@
       <div class="skillz__category">
         <div class="skillz__category__label">NLP</div>
         <ul>
-          {% for nlp_tool in site.data.skills.nlp %}
-          <li class="skillz__category__item">{{ nlp_tool.item }}</li>
+          {% for tool in site.data.skills.NLP %}
+          <li class="skillz__category__item">{{ tool.item }}</li>
           {% endfor %}
         </ul>
       </div>
 
       <div class="skillz__category">
-        <div class="skillz__category__label">Data Visualization</div>
+        <div class="skillz__category__label">Data Visualization and Analysis</div>
         <ul>
-          {% for viz_tool in site.data.skills.data_visualization %}
+          {% for viz_tool in site.data.skills["Data Visualization and Analysis"] %}
           <li class="skillz__category__item">{{ viz_tool.item }}</li>
           {% endfor %}
         </ul>
@@ -41,8 +41,17 @@
       <div class="skillz__category">
         <div class="skillz__category__label">IDEs</div>
         <ul>
-          {% for ide in site.data.skills.ides %}
+          {% for ide in site.data.skills.IDEs %}
           <li class="skillz__category__item">{{ ide.item }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="skillz__category">
+        <div class="skillz__category__label">Operating Systems</div>
+        <ul>
+          {% for os in site.data.skills["Operating Systems"] %}
+          <li class="skillz__category__item">{{ os.item }}</li>
           {% endfor %}
         </ul>
       </div>
@@ -50,7 +59,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Cloud Services</div>
         <ul>
-          {% for cloud_service in site.data.skills.cloud_services %}
+          {% for cloud_service in site.data.skills["Cloud Services"] %}
           <li class="skillz__category__item">{{ cloud_service.item }}</li>
           {% endfor %}
         </ul>
@@ -59,7 +68,7 @@
       <div class="skillz__category">
         <div class="skillz__category__label">Version Control System</div>
         <ul>
-          {% for vcs in site.data.skills.version_control %}
+          {% for vcs in site.data.skills["Version Control System"] %}
           <li class="skillz__category__item">{{ vcs.item }}</li>
           {% endfor %}
         </ul>
