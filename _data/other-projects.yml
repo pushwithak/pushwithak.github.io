@@ -1,4 +1,3 @@
 - name: Women’s E-Commerce Clothing Reviews Analysis. 
   # url: 
-  description: Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis (PCA) dimensionality reduction method worked better. SVM (Support Vector Machines) model performed better without dimensionality reduction and Random Forest Classifier worked better with dimensionality reduction. From these classification models, the retailers will be able to:  used:
-  - thing: Python
+  description: Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis (PCA) dimensionality reduction method worked better. SVM (Support Vector Machines) model performed better without dimensionality reduction and Random Forest Classifier worked better with dimensionality reduction. 
