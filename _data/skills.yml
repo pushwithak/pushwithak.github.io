@@ -1,33 +1,40 @@
-languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+Languages:
   - item: Python
   - item: SQL
   - item: R
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+ML Tools:
+  - item: PyTorch
+  - item: TensorFlow
+  - item: Scikit-Learn
 
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+NLP:
+  - item: spaCy
+  - item: NLTK
+  - item: Gensim
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+Data Visualization and Analysis:
+  - item: Tableau
+  - item: Matplotlib
+  - item: SciPy
+
+IDEs:
+  - item: Visual Studio Code
+  - item: Jupyter
+  - item: Google Colaboratory
+  - item: RStudio
+  - item: PyCharm
+
+Operating Systems:
+  - item: Linux
+  - item: Windows 10
+  - item: MacOS
+
+Cloud Services:
+  - item: Amazon AWS
+  - item: Google GCP
+  - item: Microsoft Azure
+
+Version Control System:
+  - item: Git
+
