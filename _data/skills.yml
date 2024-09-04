@@ -13,7 +13,7 @@ NLP:
   - item: NLTK
   - item: Gensim
 
-Data Visualization and Analysis:
+Data Visualization:
   - item: Tableau
   - item: Matplotlib
   - item: SciPy
