@@ -12,7 +12,7 @@
       <li>Add date and time stamps in the dataset to identify seasonal trends.</li>
     </ol>
   used:
-    - thing: Python
+    # - thing: Python
 
 
 
