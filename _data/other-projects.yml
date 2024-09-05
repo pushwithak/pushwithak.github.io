@@ -4,7 +4,7 @@
     Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis
     (PCA) dimensionality reduction method worked better. SVM (Support Vector Machines) model 
     performed better without dimensionality reduction and Random Forest Classifier worked 
-    better with dimensionality reduction. 
+    better with dimensionality reduction. From these classification models, the retailers will be able to:
     <ol>
       <li>Analyze the reviews of the customers and determine the products that increase the revenue.</li>
       <li>Perform customer segmentation based on age and target the age groups.</li>
