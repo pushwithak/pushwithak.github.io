@@ -5,12 +5,12 @@
     (PCA) dimensionality reduction method worked better. SVM (Support Vector Machines) model 
     performed better without dimensionality reduction and Random Forest Classifier worked 
     better with dimensionality reduction. 
-    <ul>
+    <ol>
       <li>Analyze the reviews of the customers and determine the products that increase the revenue.</li>
       <li>Perform customer segmentation based on age and target the age groups.</li>
       <li>Classify products inventory to increase the revenue.</li>
       <li>Add date and time stamps in the dataset to identify seasonal trends.</li>
-    </ul>
+    </ol>
   used:
     - thing: Python
 
