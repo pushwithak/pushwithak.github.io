@@ -1,15 +1,12 @@
-- name: Women’s E-Commerce Clothing Reviews Analysis
+- name: Chatbot Development for Car Sales and Rental Company Using Large Language Models (LLMs)
   # url:
   description: |
-    Analyzed the reviews dataset to classify the user sentiment. Principal Component Analysis
-    (PCA) dimensionality reduction method worked better. SVM (Support Vector Machines) model 
-    performed better without dimensionality reduction and Random Forest Classifier worked 
-    better with dimensionality reduction. From these classification models, the retailers will be able to:
-    <ol>
-      <li>Analyze the reviews of the customers and determine the products that increase the revenue.</li>
-      <li>Perform customer segmentation based on age and target the age groups.</li>
-      <li>Classify products inventory to increase the revenue.</li>
-      <li>Add date and time stamps in the dataset to identify seasonal trends.</li>
+  <ol>
+      <li>Developed an AI-powered chatbot using pre-trained models like BERT and GPT-2 for to automate customer service inquiries, reducing agent workload.</li>
+      <li>Implemented sentiment analysis on customer reviews using Scikit-Learn, achieving an F1 score of 0.92.</li>
+      <li>Integrated English-to-Spanish translation with BLEU score assessment for quality control.</li>
+      <li>Applied extractive QA with Hugging Face models to extract brand insights from reviews, improving customer
+feedback analysis.</li>
     </ol>
   used:
     # - thing: Python
