@@ -5,8 +5,7 @@
     <li>Developed an AI-powered chatbot using pre-trained models like BERT and GPT-2 for to automate customer service inquiries, reducing agent workload.</li>
     <li>Implemented sentiment analysis on customer reviews using Scikit-Learn, achieving an F1 score of 0.92.</li>
     <li>Integrated English-to-Spanish translation with BLEU score assessment for quality control.</li>
-    <li>Applied extractive QA with Hugging Face models to extract brand insights from reviews, improving customer
-feedback analysis.</li>
+    <li>Applied extractive QA with Hugging Face models to extract brand insights from reviews, improving customer feedback analysis.</li>
   </ol>
   used:
     # - thing: Python
