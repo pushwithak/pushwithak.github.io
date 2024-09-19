@@ -1,7 +1,7 @@
 - name: Chatbot Development for Car Sales and Rental Company Using Large Language Models (LLMs)
   # url:
   description: |
-    <ol>
+     <ol>
       <li>Developed an AI-powered chatbot using pre-trained models like BERT and GPT-2 for to automate customer service inquiries, reducing agent workload.</li>
       <li>Implemented sentiment analysis on customer reviews using Scikit-Learn, achieving an F1 score of 0.92.</li>
       <li>Integrated English-to-Spanish translation with BLEU score assessment for quality control.</li>
