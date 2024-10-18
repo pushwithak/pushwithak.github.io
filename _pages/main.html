@@ -1,0 +1,94 @@
+---
+layout: default
+title: Pushwitha Krishnappa
+permalink: /
+---
+
+
+
+
+
+
+<div class="row col-lg-6  col-md-6 mx-auto textreg">
+<div class="col-lg-4  col-md-12" style="margin-bottom: 10px">
+        <div class=frame><img src="{{ site.avatar }}" /></div>
+</div>
+
+<div class=" col-lg-8  col-md-12 " style="margin-bottom: 10px" >
+    <div style="margin: 3px">
+<p>
+  Highly motivated Ph.D. student in Computer Science, specializing in Artificial Intelligence, Machine Learning, and Natural Language Processing. 
+    Passionate about using data-driven approaches to solve real-world problems, with extensive experience in building predictive models, deep learning, and NLP applications. 
+    Seeking opportunities to contribute my technical skills to innovative teams in a dynamic industry environment.
+</p>
+</div>
+</div>
+
+
+</div>
+
+<div class="row col-lg-6  col-md-6 mx-auto">
+    <div class="col-lg-4  col-md-12">
+        <div class="newsbox" style="height:170px; overflow:auto; margin-bottom: 30px;">
+<div style="display: flex; justify-content: center;">
+      <img src="/images/email.png" style="width: 200px; margin-top: 30px; margin-bottom: 30px" class="center">
+</div>
+<div style="display: flex; justify-content: center;">
+
+    <ul class="nav nav-justified justify-content-center" style="font-size: 14px; width: 200px">
+      <li class="nav-item ">
+        <a class="nav-link" href="https://x.com/pushwithak" style="border: 0px; padding: 2px">Twitter</a>
+      </li>
+
+      <li class="nav-item"  style="border: 0px; padding: 0px">
+        <a class="nav-link" href="https://www.linkedin.com/in/pushwitha" style="border: 0px; padding: 2px">LinkedIn</a>
+      </li>
+
+      <li class="nav-item"  style="border: 0px; padding: 0px">
+        <a class="nav-link" href="https://github.com/pushwithak" style="border: 0px; padding: 2px">Github</a>
+      </li>
+    </ul>
+</div>
+        </div>
+</div>
+
+
+<div class="row col-lg-8  col-md-12">
+
+
+
+    <div class="newsbox" style="height:170px; overflow:auto; margin-bottom: 30px;
+    display: inline-block; text-align: left;">
+    <table style="width: 100%">
+    {% for tmp in site.data.news %}
+    {% for entry in tmp.links %}
+
+      <tr>
+        <td style="width: 20%; min-width: 90px;" class="datev">{{ entry.date }}</td>
+          <td style="width: 70%">
+              {{entry.text}}
+              {% if entry.link %}
+              <a href="{{entry.link}}">(link)</a>
+              {% endif %}
+              {% if entry.links %}
+                    {% for l in entry.links %}
+                              <a href="{{l}}">(link)</a>
+
+                    {% endfor %}
+              {% endif %}
+            {% if entry.photo %}
+              <a href="{{entry.photo}}">(photo)</a>
+              {% endif %}
+          </td>
+<!--          <hr>-->
+      </tr>
+    {% endfor %}
+    {% endfor %}
+    </table>
+</div>
+
+
+
+
+
+</div>

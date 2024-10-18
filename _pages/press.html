@@ -1,0 +1,31 @@
+---
+layout: page_large
+title: Press
+permalink: /press
+---
+
+
+
+
+  {% for med in site.media reversed %}
+<div class="row col-lg-12">
+<div class="col-lg-1">
+     <p>{{med.year}}</p>
+</div>
+<div class="col-lg-3">
+    <p style="text-align: right; color: #999999; font-style: italic"> {{med.venue}}</p>
+        {% if med.archive %} <p style="text-align: right;"> <a href="{{med.archive}}"> (archive) </a> </p>  {% endif %}
+
+</div>
+
+    <div class="col-lg-8">
+        <p> <a href="{{med.link}}"> {{med.title}} </a> </p>
+
+                {% if med.related_paper %}  <p> Related paper: {{med.related_paper}}  </p>  {% endif %}
+
+</div>
+
+</div>
+
+<hr/>
+{% endfor %}
