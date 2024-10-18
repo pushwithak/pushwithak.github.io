@@ -54,42 +54,4 @@ permalink: /
 </div>
 
 
-<div class="row col-lg-8  col-md-12">
-
-
-
-    <div class="newsbox" style="height:170px; overflow:auto; margin-bottom: 30px;
-    display: inline-block; text-align: left;">
-    <table style="width: 100%">
-    {% for tmp in site.data.news %}
-    {% for entry in tmp.links %}
-
-      <tr>
-        <td style="width: 20%; min-width: 90px;" class="datev">{{ entry.date }}</td>
-          <td style="width: 70%">
-              {{entry.text}}
-              {% if entry.link %}
-              <a href="{{entry.link}}">(link)</a>
-              {% endif %}
-              {% if entry.links %}
-                    {% for l in entry.links %}
-                              <a href="{{l}}">(link)</a>
-
-                    {% endfor %}
-              {% endif %}
-            {% if entry.photo %}
-              <a href="{{entry.photo}}">(photo)</a>
-              {% endif %}
-          </td>
-<!--          <hr>-->
-      </tr>
-    {% endfor %}
-    {% endfor %}
-    </table>
-</div>
-
-
-
-
-
 </div>
