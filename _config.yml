@@ -22,7 +22,7 @@ collections:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -36,7 +36,7 @@ baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
-#
+#   
 
 permalink: /:title/
 
