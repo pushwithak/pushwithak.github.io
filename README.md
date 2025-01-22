@@ -1,4 +1,4 @@
-# Pushwitha Krishnappa's Personal Website
+# Personal Website
 
 Welcome to my personal website! This project is built using [Jekyll](https://jekyllrb.com/) and a customized version of the theme by [Manoel Horta Ribeiro](https://manoelhortaribeiro.github.io/).
 
