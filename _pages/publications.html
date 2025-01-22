@@ -30,7 +30,7 @@ permalink: /publications
 </div>
 
 <!--TITLE-->
-<div class="col-lg-7">
+<!-- <div class="col-lg-7">
 <p>  {{ pub.title }}</p>
 
 <p>
@@ -48,7 +48,33 @@ permalink: /publications
 </p>
 <p style="display: block">
 {% for link_content in pub.links %} <a href="{{link_content.content}}" style="display: inline-block"> {{link_content.name}}</a>{% if forloop.last != true %},&nbsp;{% endif %}{% endfor %}
-</p>
+</p> -->
+
+
+<div class="col-lg-7">
+    <p> {{ pub.title }}</p>
+  
+    <p>
+      {% for author in pub.authors %}
+      {% if author == "Pushwitha Krishnappa" %}
+      <b>{{ author }}</b>{% if forloop.last != true %},{% endif %}
+      {% else %}
+      {% if author == "Pushwitha Krishnappa*" %}
+      <b>{{ author }}</b>{% if forloop.last != true %},{% endif %}
+      {% else %}
+      <span>{{ author }}</span>{% if forloop.last != true %},{% endif %}
+      {% endif %}
+      {% endif %}
+      {% endfor %}
+    </p>
+  
+    <p>
+      {% for link_content in pub.links %}
+      <a href="{{link_content.content}}">{{link_content.name}}</a>{% if forloop.last != true %},&nbsp;{% endif %}
+      {% endfor %}
+    </p>
+  </div>
+  
 
 
 <!-- 
