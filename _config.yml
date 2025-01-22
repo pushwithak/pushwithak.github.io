@@ -5,7 +5,7 @@
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/img.png
+avatar: /images/pushwitha.jpeg
 
 #
 # Flags below are optionalß
@@ -17,8 +17,8 @@ collections_dir: my_collections
 collections:
   publications:
     output: true
-  media:
-    output: true
+  # media:
+  #   output: true
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
