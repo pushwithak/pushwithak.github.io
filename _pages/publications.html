@@ -54,36 +54,6 @@ permalink: /publications
             {% endfor %}
           </p>
         </div>
-
-        <!-- Uncomment this block for media coverage -->
-        {# 
-        {% assign flag = 0 %}
-        {% for med in site.media reversed %}
-          {% if pub.title == med.related_paper %}
-            {% assign flag = 1 %}
-          {% endif %}
-        {% endfor %}
-
-        {% if flag == 1 %}
-          <p>
-            <i>Media Coverage:</i>&nbsp;
-            {% for med in site.media reversed %}
-              {% if pub.title == med.related_paper %}
-                <a href="{{ med.link }}" style="display: inline-block;">{{ med.venue }}</a>&nbsp;
-              {% endif %}
-            {% endfor %}
-          </p>
-        {% endif %}
-        #}
-
-        <!-- Uncomment this block for paper teaser images -->
-        {#
-        <div class="col-lg-2 d-none d-xl-block" style="text-align: center;">
-          <img src="{{ site.baseurl }}/images/paper_teasers/{{ pub.name_file }}.png" 
-               style="display: inline-flex; max-width: 175px; margin-bottom: 20px;" />
-        </div>
-        #}
-
       </div>
 
       <hr/>
