@@ -16,6 +16,6 @@ conf: 'COMPASS 24: ACM'
 links:
   - {"name": "Paper", "content": "https://dl.acm.org/doi/10.1145/3674829.3675088"}
 
-name_file: '2024_sensitrain'
+# name_file: '2024_sensitrain'
 
 ---
