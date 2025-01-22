@@ -1,6 +1,6 @@
 ---
 layout: page_large
-title: Smolagents: Simplifying AI Agents
+title: Smolagents Simplifying AI Agents
 permalink: /mylearnings/smolagents
 ---
 
