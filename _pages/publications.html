@@ -49,6 +49,9 @@ permalink: /publications
 <p style="display: block">
 {% for link_content in pub.links %} <a href="{{link_content.content}}" style="display: inline-block"> {{link_content.name}}</a>{% if forloop.last != true %},&nbsp;{% endif %}{% endfor %}
 </p>
+
+
+<!-- 
 {% assign flag = 0 %}
 {% for med in site.media reversed %}
 {% if pub.title == med.related_paper %}
@@ -67,11 +70,16 @@ permalink: /publications
 </p>
 {% endif %}
 </div>
+ -->
 
-<div  class="col-lg-2  d-none d-xl-block" style="text-align:center; alignment: center">
+
+
+<!-- <div  class="col-lg-2  d-none d-xl-block" style="text-align:center; alignment: center">
 <img src="{{ site.baseurl }}/images/paper_teasers/{{pub.name_file}}.png" style="display: inline-flex;  max-width: 175px; margin-bottom: 20px"/>
 
-</div>
+</div> -->
+
+
 </div>
 
 
