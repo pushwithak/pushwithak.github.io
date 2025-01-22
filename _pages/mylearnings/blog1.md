@@ -1,18 +1,47 @@
 ---
 layout: page_large
-title: Blog 1 
-permalink: /teaching/blog1
-
+title: Smolagents: Simplifying AI Agents
+permalink: /mylearnings/smolagents
 ---
 
 <div><br/></div>
 
-<center><h1>Blog 1</h1></center>
-<center><h3>NLP</h3></center>
+<center><h1>Hugging Face's Smolagents</h1></center>
+<center><h3>A Simplified Framework for Building AI Agents</h3></center>
 <div><br/></div>
 
-Machine learning models 
+Hugging Face's **smolagents** is a new Python library that simplifies the creation of AI agents, making them more accessible to developers.
 
-<hr>
+In this blog, I will introduce you to the smolagents library, explain why it's useful, and guide you through a demo project to showcase its capabilities.
 
-# Table of Contents
+---
+
+### **What Is Hugging Face’s Smolagents?**
+
+As described by Hugging Face’s announcement blog, smolagents is *“a very simple library that unlocks agentic capabilities for language models.”* But why do we need libraries to build agents?
+
+At their heart, agents are powered by LLMs to dynamically solve a task by observing their environments, making plans, and executing those plans given their toolbox. Building these agents requires developing many components from scratch to ensure they function properly without unnecessary resource consumption.
+
+AI agent frameworks are often criticized for:
+1. Building too many layers of abstraction, making them rigid and challenging to debug.
+2. Focusing on "workflows" rather than dynamic agent collaboration.
+
+**Smolagents**, however, offers:
+- Minimal abstractions.
+- Code Agents that define actions in Python code snippets rather than JSON/text format.
+- Seamless integration with the Hugging Face ecosystem (e.g., Hugging Face Hub, Transformers library, and proprietary models like OpenAI's GPT).
+- Straightforward customization of tools with minimal effort.
+
+---
+
+### **Building a Demo Project With Smolagents**
+
+In this demo, we will build an agent to retrieve the most upvoted paper on the **Hugging Face Daily Papers** page. 
+
+---
+
+#### **Setting Up Smolagents**
+
+To install smolagents, run:
+```bash
+pip install smolagents
