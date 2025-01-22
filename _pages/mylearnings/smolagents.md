@@ -18,9 +18,6 @@ In this blog, I will introduce you to the smolagents library, explain why it's u
 
 ### **What Is Hugging Face’s Smolagents?**
 
-As described by Hugging Face’s announcement blog, smolagents is *“a very simple library that unlocks agentic capabilities for language models.”* But why do we need libraries to build agents?
-
-At their heart, agents are powered by LLMs to dynamically solve a task by observing their environments, making plans, and executing those plans given their toolbox. Building these agents requires developing many components from scratch to ensure they function properly without unnecessary resource consumption.
 
 AI agent frameworks are often criticized for:
 1. Building too many layers of abstraction, making them rigid and challenging to debug.
@@ -43,5 +40,4 @@ In this demo, we will build an agent to retrieve the most upvoted paper on the *
 #### **Setting Up Smolagents**
 
 To install smolagents, run:
-```bash
-pip install smolagents
+
